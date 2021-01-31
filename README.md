@@ -1,6 +1,6 @@
 ![preview-couse](https://miro.medium.com/max/2732/1*mtsk3fQ_BRemFidhkel3dA.png)
 
-# Curso de Git y Github en Platzi 🔥
+#  Git y Github  🔥
 - **PDF del curso:** [Git-Github](https://static.platzi.com/media/public/uploads/git-github_917f1c24-de6d-4d30-99ca-f47214e6ae16.pdf)
 
 ## Temario
